@@ -1,0 +1,6 @@
+// transpiling means vinalla js which converted from js to json file and vinilla js beacuase browser dont understand js
+//bom hi browser object  model
+//dom is document object model which have (head ,body,)  html close;
+//basic sytax of any broser is html which have head(which have meta data etc) and body(div);
+//root is a The root is where the application layout structure is defined. It is typically the first UI element a user interacts with. The root can be changed multiple times during the lifespan of the application
+//in js from crylic bracket {}we make object

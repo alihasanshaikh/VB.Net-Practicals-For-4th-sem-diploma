@@ -1,0 +1,10 @@
+C:\Users\LAB01\AppData\Local\Temporary Projects\skibrahim140\bin\Debug\skibrahim140.exe
+C:\Users\LAB01\AppData\Local\Temporary Projects\skibrahim140\bin\Debug\skibrahim140.pdb
+C:\Users\LAB01\AppData\Local\Temporary Projects\skibrahim140\bin\Debug\skibrahim140.xml
+C:\Users\LAB01\AppData\Local\Temporary Projects\skibrahim140\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAB01\AppData\Local\Temporary Projects\skibrahim140\obj\Debug\skibrahim140.Form1.resources
+C:\Users\LAB01\AppData\Local\Temporary Projects\skibrahim140\obj\Debug\skibrahim140.Resources.resources
+C:\Users\LAB01\AppData\Local\Temporary Projects\skibrahim140\obj\Debug\skibrahim140.vbproj.GenerateResource.Cache
+C:\Users\LAB01\AppData\Local\Temporary Projects\skibrahim140\obj\Debug\skibrahim140.exe
+C:\Users\LAB01\AppData\Local\Temporary Projects\skibrahim140\obj\Debug\skibrahim140.xml
+C:\Users\LAB01\AppData\Local\Temporary Projects\skibrahim140\obj\Debug\skibrahim140.pdb

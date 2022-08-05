@@ -1,0 +1,9 @@
+C:\2005690144\Prime console\Prime console\bin\Debug\Prime console.exe
+C:\2005690144\Prime console\Prime console\bin\Debug\Prime console.pdb
+C:\2005690144\Prime console\Prime console\bin\Debug\Prime console.xml
+C:\2005690144\Prime console\Prime console\obj\Debug\ResolveAssemblyReference.cache
+C:\2005690144\Prime console\Prime console\obj\Debug\ConsoleApplication1.Resources.resources
+C:\2005690144\Prime console\Prime console\obj\Debug\Prime console.vbproj.GenerateResource.Cache
+C:\2005690144\Prime console\Prime console\obj\Debug\Prime console.exe
+C:\2005690144\Prime console\Prime console\obj\Debug\Prime console.xml
+C:\2005690144\Prime console\Prime console\obj\Debug\Prime console.pdb

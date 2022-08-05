@@ -1,0 +1,16 @@
+C:\2005690144\calculator\calculator\bin\Debug\calculator.exe
+C:\2005690144\calculator\calculator\bin\Debug\calculator.pdb
+C:\2005690144\calculator\calculator\bin\Debug\calculator.xml
+C:\2005690144\calculator\calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\2005690144\calculator\calculator\obj\Debug\WindowsApplication1.Form1.resources
+C:\2005690144\calculator\calculator\obj\Debug\WindowsApplication1.Resources.resources
+C:\2005690144\calculator\calculator\obj\Debug\calculator.vbproj.GenerateResource.Cache
+C:\2005690144\calculator\calculator\obj\Debug\calculator.exe
+C:\2005690144\calculator\calculator\obj\Debug\calculator.xml
+C:\2005690144\calculator\calculator\obj\Debug\calculator.pdb
+D:\VB.NET\calculator\calculator\obj\Debug\calculator.exe
+D:\VB.NET\calculator\calculator\obj\Debug\calculator.xml
+D:\VB.NET\calculator\calculator\obj\Debug\calculator.pdb
+F:\VB.NET\calculator\calculator\obj\Debug\calculator.exe
+F:\VB.NET\calculator\calculator\obj\Debug\calculator.xml
+F:\VB.NET\calculator\calculator\obj\Debug\calculator.pdb

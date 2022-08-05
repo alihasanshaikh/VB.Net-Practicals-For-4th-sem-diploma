@@ -1,0 +1,10 @@
+C:\Users\LAB01\AppData\Local\Temporary Projects\4thibrahim\bin\Debug\4thibrahim.exe
+C:\Users\LAB01\AppData\Local\Temporary Projects\4thibrahim\bin\Debug\4thibrahim.pdb
+C:\Users\LAB01\AppData\Local\Temporary Projects\4thibrahim\bin\Debug\4thibrahim.xml
+C:\Users\LAB01\AppData\Local\Temporary Projects\4thibrahim\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAB01\AppData\Local\Temporary Projects\4thibrahim\obj\Debug\_4thibrahim.Form1.resources
+C:\Users\LAB01\AppData\Local\Temporary Projects\4thibrahim\obj\Debug\_4thibrahim.Resources.resources
+C:\Users\LAB01\AppData\Local\Temporary Projects\4thibrahim\obj\Debug\4thibrahim.vbproj.GenerateResource.Cache
+C:\Users\LAB01\AppData\Local\Temporary Projects\4thibrahim\obj\Debug\4thibrahim.exe
+C:\Users\LAB01\AppData\Local\Temporary Projects\4thibrahim\obj\Debug\4thibrahim.xml
+C:\Users\LAB01\AppData\Local\Temporary Projects\4thibrahim\obj\Debug\4thibrahim.pdb

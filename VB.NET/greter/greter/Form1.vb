@@ -1,0 +1,14 @@
+﻿Public Class Form1
+
+    Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        MsgBox("hello")
+    End Sub
+
+    Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+        If Val(TextBox1.Text) > Val(TextBox2.Text) Then
+            Label1.Text = "Greater"
+        Else
+            Label2.Text = "Smaller"
+        End If
+    End Sub
+End Class

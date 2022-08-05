@@ -1,0 +1,10 @@
+F:\VB.NET\ads sub mul\ads sub mul\obj\Debug\ResolveAssemblyReference.cache
+F:\VB.NET\ads sub mul\ads sub mul\obj\Debug\WindowsApplication1.Form1.resources
+F:\VB.NET\ads sub mul\ads sub mul\obj\Debug\WindowsApplication1.Resources.resources
+F:\VB.NET\ads sub mul\ads sub mul\obj\Debug\ads sub mul.vbproj.GenerateResource.Cache
+F:\VB.NET\ads sub mul\ads sub mul\bin\Debug\ads sub mul.exe
+F:\VB.NET\ads sub mul\ads sub mul\bin\Debug\ads sub mul.pdb
+F:\VB.NET\ads sub mul\ads sub mul\bin\Debug\ads sub mul.xml
+F:\VB.NET\ads sub mul\ads sub mul\obj\Debug\ads sub mul.exe
+F:\VB.NET\ads sub mul\ads sub mul\obj\Debug\ads sub mul.xml
+F:\VB.NET\ads sub mul\ads sub mul\obj\Debug\ads sub mul.pdb
